@@ -1,0 +1,23 @@
+.carouselmain{
+    width: 80%;
+    height: 100%;
+    background-color: #F1F5F9;
+    display: inline-flex;
+    flex-direction: column;
+    margin-bottom: 3rem;
+}
+
+.card{
+    width: 80rem;
+    margin: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    transition: all 0.3s ease-in-out;
+    margin-right: 2rem;
+}
+.carouselimg{
+    width: 80%;
+    height: 90%;
+    border-radius: 10px;
+}

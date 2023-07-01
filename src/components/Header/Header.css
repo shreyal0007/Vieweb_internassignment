@@ -1,0 +1,42 @@
+.header{
+    display: flex;
+    flex-direction: row;
+}
+.div1{
+    width: 50%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100px;
+    margin-left: 13%;
+    margin-right: 25%;
+    margin-top: 2rem;
+}
+.button{
+    width: 110px;
+    height: 35px;
+    background-color: #3B82F6;
+    color: white;
+    border: none;
+    border-radius: 16px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+.div2{
+    margin-left: 10%;
+}
+.footertext{
+    font-size: 1rem;
+    
+    color: #64748B;
+    margin-left: 2%;
+    margin-top: 0.3%;
+}
